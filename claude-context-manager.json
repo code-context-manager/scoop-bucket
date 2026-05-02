@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "description": "Context-driven development for Claude Code",
+  "homepage": "https://github.com/code-context-manager/claude-context-manager",
+  "license": "ISC",
+  "url": "https://github.com/code-context-manager/claude-context-manager/releases/download/v0.1.0/claude-context-manager-0.1.0-x64.zip",
+  "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5",
+  "bin": "Claude Context Manager.exe",
+  "shortcuts": [
+    ["Claude Context Manager.exe", "Claude Context Manager"]
+  ],
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://github.com/code-context-manager/claude-context-manager/releases/download/v$version/claude-context-manager-$version-x64.zip"
+  }
+}
