@@ -4,7 +4,7 @@
   "homepage": "https://github.com/code-context-manager/claude-context-manager",
   "license": "ISC",
   "url": "https://github.com/code-context-manager/claude-context-manager/releases/download/v0.1.0/claude-context-manager-0.1.0-x64.zip",
-  "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5",
+  "hash": "dac0427175107b81c0eac97bacb6c046a0218a189bd75800f069978f1c1bc772",
   "bin": "Claude Context Manager.exe",
   "shortcuts": [
     ["Claude Context Manager.exe", "Claude Context Manager"]
